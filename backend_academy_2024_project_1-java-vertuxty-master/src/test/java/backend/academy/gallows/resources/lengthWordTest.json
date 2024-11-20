@@ -1,0 +1,19 @@
+{
+    "EASY": {
+        "GAMES" : [
+            {
+                "word": "a", "hint": "error expected"
+            }
+        ],
+        "ANIME" : [
+            {
+                "word": "aaaaaa", "hint" : "error expected"
+            }
+        ],
+        "FILMS" : [
+            {
+                "word": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", "hint" : "error expected"
+            }
+        ]
+    }
+}

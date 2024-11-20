@@ -1,0 +1,16 @@
+{
+    "EASY": {
+        "ANIME" : [
+            {
+                "word": "naruto", "hint": "uzumaki"
+            }
+        ]
+    },
+    "HARD": {
+        "FILMS": [
+            {
+                "word": "godfather", "hint": "with mafio!!!"
+            }
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "EASY": {
+        "ANIME" : [
+            {
+                "word": "naruto", "hint": "uzumaki"
+            },
+            {
+                "word" : "bleach", "hint": "sharp sword"
+            }
+        ],
+        "FILMS": [
+            {
+                "word": "seven", "hint": "bred pit with nuts"
+            },
+            {
+                "word" : "whiplash", "hint": "drums and cries"
+            }
+        ]
+    },
+    "HARD": {
+        "ANIME": [
+            {
+                "word": "deathnote", "hint": "write name of your enemy"
+            },
+            {
+                "word": "pokemonai", "hint": "pokemonai"
+            }
+        ],
+        "FILMS": [
+            {
+                "word": "godfather", "hint": "with mafio!!!"
+            },
+            {
+                "word" : "inception", "hint": "in dreams with leo dicaprio"
+            }
+        ]
+
+    },
+    "MEDIUM": {
+        "ANIME": [
+            {
+                "word": "toradora", "hint": "super dura, ... dura"
+            },
+            {
+                "word": "mushishi", "hint": "misha"
+            }
+        ],
+        "FILMS": [
+            {
+                "word": "casablanca", "hint": "old 1960 cult film"
+            },
+            {
+                "word" : "intouchables", "hint": "omar see with rich best friend"
+            }
+        ]
+    }
+}

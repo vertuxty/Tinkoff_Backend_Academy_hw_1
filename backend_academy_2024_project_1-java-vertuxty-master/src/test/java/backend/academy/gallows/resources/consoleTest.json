@@ -1,0 +1,27 @@
+{
+    "EASY": {
+        "ANIME" : [
+            {
+                "word": "naruto", "hint": "uzumaki"
+            }
+        ],
+        "FILMS": [
+            {
+                "word": "seven", "hint": "bred pit with nuts"
+            }
+        ]
+    },
+    "HARD": {
+        "ANIME": [
+            {
+                "word": "deathnote", "hint": "write name of your enemy"
+            }
+        ],
+        "FILMS": [
+            {
+                "word": "godfather", "hint": "with mafio!!!"
+            }
+        ]
+
+    }
+}

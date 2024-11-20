@@ -1,0 +1,33 @@
+{
+    "EASY": {
+        "ANIME" : [
+            {
+                "word": "naruto", "hint": "uzumaki"
+            },
+            {
+                "word" : "bleach", "hint": "sharp sword"
+            }
+        ]
+    },
+    "HARD": {
+
+    },
+    "MEDIUM": {
+        "ANIME": [
+            {
+                "word": "toradora", "hint": "super dura, ... dura"
+            },
+            {
+                "word": "mushishi", "hint": "misha"
+            }
+        ],
+        "FILMS": [
+            {
+                "word": "casablanca", "hint": "old 1960 cult film"
+            },
+            {
+                "word" : "intouchables", "hint": "omar see with rich best friend"
+            }
+        ]
+    }
+}
